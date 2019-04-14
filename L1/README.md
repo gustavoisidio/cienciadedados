@@ -23,7 +23,7 @@
         - ~~Classificação - k-FOLD~~
 
     
-- Iris
+- [Iris](https://github.com/gustavoisidio/cienciadedados/blob/master/L1/README.md#iris)
     - Média
         - Treinamento - RNA
         - Treinamento - K-Means supervisionado: o Nearest Centroid Classifier
@@ -46,8 +46,8 @@
         - ~~Classificação - k-FOLD~~
 
 
-- Resultado Câncer
-- Resultado Iris
+- [Resultado Câncer](https://github.com/gustavoisidio/cienciadedados/blob/master/L1/README.md#resultado---câncer)
+- [Resultado Iris](https://github.com/gustavoisidio/cienciadedados/blob/master/L1/README.md#resultado---iris)
 
 # Câncer
 
