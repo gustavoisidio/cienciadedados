@@ -1,6 +1,6 @@
 
 # Índice
-- Câncer
+- [Câncer](https://github.com/gustavoisidio/cienciadedados/tree/master/L1#câncer)
     - Média
         - [Treinamento - RNA]
         - Treinamento - K-Means supervisionado: o Nearest Centroid Classifier
