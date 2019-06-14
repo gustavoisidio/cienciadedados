@@ -424,7 +424,7 @@ Geral
 <p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ci-ncia-de19.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Ci-ncia-de19.png "image_tooltip")
+
 
 
 
@@ -432,7 +432,7 @@ Geral
 <p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ci-ncia-de20.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Ci-ncia-de20.png "image_tooltip")
+
 
 
 **5.3	kNN**
@@ -441,28 +441,19 @@ Geral
 
 **Acertos**
 
-
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ci-ncia-de21.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Ci-ncia-de21.png "image_tooltip")
-
+![alt_text](images/Ci-ncia-de19.png "image_tooltip")
 
 **Erros**
 
-
+![alt_text](images/Ci-ncia-de20.png "image_tooltip")
 
 **Neighbors de 5 a 400 variando de 30 em 30 com pesos baseados na distância**
 
 **Acertos**
 
+![alt_text](images/Ci-ncia-de21.png "image_tooltip")
+
 **Erros**
-
-
-
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ci-ncia-de22.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/Ci-ncia-de22.png "image_tooltip")
 
@@ -472,16 +463,7 @@ Geral
 **Estimators variando de 5 a 400 de 30 em 30**
 
 
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ci-ncia-de23.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/Ci-ncia-de23.png "image_tooltip")
-
-
-
-
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ci-ncia-de24.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/Ci-ncia-de24.png "image_tooltip")
@@ -490,17 +472,7 @@ Geral
 **Máximo de folhas variando de 5 a 400 de 30 em 30**
 
 
-
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ci-ncia-de25.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/Ci-ncia-de25.png "image_tooltip")
-
-
-
-
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ci-ncia-de26.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/Ci-ncia-de26.png "image_tooltip")
 
