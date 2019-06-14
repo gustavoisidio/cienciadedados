@@ -109,7 +109,7 @@ Na tentativa de deixar o atributo binário, para todos que são 2, significando 
 
 **3.5	Conteúdo da base pré-processada**
 
-	Após efetuar todas as etapas de pré-processamento destacadas acima, a base passa a conter 84 atributos, sendo um deles a classe:
+Após efetuar todas as etapas de pré-processamento destacadas acima, a base passa a conter 84 atributos, sendo um deles a classe:
 
 
 
