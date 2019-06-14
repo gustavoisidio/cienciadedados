@@ -93,7 +93,7 @@ Como trata-se de um atributo categórico em que 5 e 6 significam desconhecido, n
 
 Para não gerar nenhuma anomalia no resultado, os atributos com valores muito grandes serão normalizados utilizando a técnica MinMaxScaler.
 
-![alt_text](images/Ci-ncia-de2.jpg "image_tooltip")
+![alt_text](images/Ci-ncia-de2.png "image_tooltip")
 
 Sofrem essa normalização os seguintes atributos: LIMIT_BAL, AGE, BILL_AMT1, BILL_AMT2', BILL_AMT3, BILL_AMT4, BILL_AMT5, BILL_AMT6, PAY_AMT1, PAY_AMT2, PAY_AMT3, PAY_AMT4, PAY_AMT5 e PAY_AMT6. Abaixo, é possível perceber que os valores desses atributos ficam entre 0 e 1.
 
@@ -104,7 +104,7 @@ Sofrem essa normalização os seguintes atributos: LIMIT_BAL, AGE, BILL_AMT1, BI
 Na tentativa de deixar o atributo binário, para todos que são 2, significando "feminino", será posto 0, ficando com 1 para masculino e 0 para feminino.
 
 
-![alt_text](images/Ci-ncia-de4.jpg "image_tooltip")
+![alt_text](images/Ci-ncia-de4.png "image_tooltip")
 
 
 **3.5	Conteúdo da base pré-processada**
