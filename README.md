@@ -349,4 +349,25 @@ Durante o experimento, após aplicar as técnicas de IA antes de depois do pré-
 
 ![alt_text](images/Ci-ncia-de27.png "image_tooltip")
 
+**6.0	Conclusão**
+
+**6.1	K-Means**
+
+Ao final de toda análise, foi possível perceber que, de todas as técnicas utilizadas, a k-means foi a que mais precisou do pré-processamento. Ainda sobre ela, foi possível comparar várias técnicas para medir distância além da euclidiana. Dessas técnicas, a braycurtis foi a que se saiu melhor e a manhattan expressou o pior resultado.
+
+**6.2	Random Forest**
+
+A Random Forest foi a técnica menos reativas a ausência do pré-processamento. Além disso, ficou claro que não é ideal utilizar 5 estimators nem um máximo de 5 folhas. A medida em que os estimators e número máximo de folhas cresceu, o resultado não melhorou tanto. De 35 a 395 estimators e máximo de folhas, o resultado permaneceu quase o mesmo.
+
+**6.3	kNN**
+
+Assim como na Random Forest, a kNN não reage bem a apenas 5 neighbors. A medida em que o número de neighbors cresceu, o resultado foi melhor, mas acabou caindo. Com respeito a forma de calcular os pesos, calculando uniformemente alcançou um maior número de acertos. O  melhor resultado apareceu com 45 neighbors, com um total de 81,92% de acertos e passou a cair, chegando a pouco menos de 80% em alguns casos. 
+
+**6.4	Keras**
+
+A partir da matriz de confusão gerada com o keras, foi possível extrair algumas métricas. Além disso, foi possível avaliar cada um dos 7 folds por meio dessas métricas. Dentre elas, a especificidade no fold 4 ficou um pouco diferente dos demais. Outro valor que varia mais que os outros é o VP Negativo. 
+
+
+
+
 <!-- Docs to Markdown version 1.0β17 -->
